@@ -1,2 +1,2 @@
 # Vref
-Virtual ground
+Virtual ground, in a PDIP8 package
